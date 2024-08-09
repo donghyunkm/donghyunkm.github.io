@@ -1,10 +1,10 @@
 ---
-title: "RECSYS"
-collection: talks
+title: "RECSYS with Home Depot"
+collection: research
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /research/2021-recsys
 venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
+date: 2021-10-10
 location: "San Francisco, California"
 ---
 

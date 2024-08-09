@@ -1,11 +1,11 @@
 ---
-title: "VAE"
-collection: talks
+title: "FMRI VAE"
+collection: research
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /research/fmri
+venue: "Georgia Institute of Technology"
+date: 2024-05-31
+location: "Atlanta, GA"
 ---
 
 [More information here](http://example2.com)

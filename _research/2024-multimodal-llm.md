@@ -1,9 +1,9 @@
 ---
-title: "TRACIN"
-collection: talks
+title: "Multimodal LLM"
+collection: research
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
+permalink: /research/multimodal_llm
+venue: "Georgia Institute of Technology"
 date: 2013-03-01
 location: "Berkeley CA, USA"
 ---
